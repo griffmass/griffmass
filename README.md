@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=griffmass&label=Profile%20views&color=AC90FE&style=flat" alt="griffmass" /> </p>
 
 <!-- Quick Stats about me -->
-<h1><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="35" height="35"> Quick stats about me</h1>
+<h2><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="25" height="25"> Quick stats about me</h2>
 <table style="margin: auto;">
   <tr>
     <td colspan="2" style="text-align: center;">
