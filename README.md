@@ -8,14 +8,28 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=griffmass&label=Profile%20views&color=AC90FE&style=flat" alt="griffmass" /> </p>
 
 <!-- Quick Stats about me -->
-<h6><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="15" height="15"> Quick stats about me</h6>
-<table> 
+<h1><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="35" height="35"> Quick stats about me</h1>
+<table style="margin: auto;">
   <tr>
-    <td> <!-- iFergTech's Github Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=griffmass&show_icons=true&title_color=AC90FE&icon_color=AC90FE&text_color=B5C0D0&bg_color=202528&count_private=true" alt="iFerg's github stats" />
+    <td colspan="2" style="text-align: center;">
+      <!-- Github Profile Trophy -->
+      <a href="https://github.com/griffmass/github-profile-trophy">
+        <img width="780" src="https://github-profile-trophy.vercel.app/?username=griffmass&column=4&row=2&theme=nord" alt="Github Profile Trophy"/>
+      </a>
     </td>
-    <td> <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffmass&show_icons=true&title_color=AC90FE&icon_color=AC90FE&text_color=B5C0D0&bg_color=202528&count_private=true&layout=compact" alt="iFerg's top languages" />
+  </tr>
+  <tr>
+    <td> <!-- Github Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=griffmass&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=nord" width="390" alt="Github Stats"/>
+    </td>
+    <td> <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=griffmass&theme=nord" width="390" alt="Github Streak Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"> <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffmass&langs_count=20&layout=compact&theme=nord" width="390" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
+
