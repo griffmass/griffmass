@@ -70,8 +70,9 @@
 
 <hr> <!-- <hr> horizontal line -->
 
-<!-- Quick Stats about me -->
-<h1><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="30" height="30"> Quick stats about me</h1>
+<!-- Quick Stats about me 
+<h1><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="30" height="30"> Quick stats about me</h1> 
+-->
 <table> 
   <tr>
     <td> <!-- iFergTech's Github Stats -->
