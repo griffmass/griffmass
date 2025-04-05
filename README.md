@@ -56,7 +56,7 @@
 <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" alt="vscode" width="60" height="30"/> </a> 
 <!-- Postman --> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<img src="https://cdn.creazilla.com/icons/3254217/postman-icon-size_512.png" alt="postman" width="40" height="40"/> </a>
 <!-- MySql --> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="44" height="44"/> </a> 
