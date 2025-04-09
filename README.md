@@ -5,7 +5,7 @@
 <!-- Aspiring Full-Stack Developer -->
 <!-- <h6 align="center"><img src="https://raw.githubusercontent.com/griffmass/griffmass/main/assets/animation/icons/rocket-ezgif.com-effects.gif" width="24" height="24" alt="rocket gif"/>Aspiring Web Developer</h6> -->
 <!-- Profile views -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=griffmass&label=Profile%20views&color=AC90FE&style=flat" alt="griffmass" /> </p> --> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=griffmass&label=Profile%20views&color=AC90FE&style=flat" alt="griffmass" /> </p> -->
 
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
