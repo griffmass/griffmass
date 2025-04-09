@@ -10,7 +10,7 @@
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Languages and Tools -->
-<h1 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="30" height="30"> Tech Stack:</h1>
+<h1 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="30" height="30"> Technology and Tools:</h1>
 <p align="left"> <!-- Start -> Languages and Tools -->
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
