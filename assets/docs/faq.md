@@ -46,13 +46,27 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <details>
 <summary><strong>Show Answer</strong></summary>
 <br>
-Please refer to the screenshots below for your specific launcher:
+
+**Part 1: Locate your Game Folder**
+*Choose your launcher below to see how to open the installation directory.*
 
 **For TLauncher:**
-![TLauncher Instructions](URL_HERE)
+![TLauncher Open Folder](../screenshots/tlauncher_open_folder.jpg)
 
 **For Sklauncher:**
-![Sklauncher Instructions](URL_HERE)
+![Sklauncher Open Folder](../screenshots/sklauncher_open_folder.jpg)
+
+---
+
+**Part 2: Installation Steps (Universal)**
+*Once your folder is open, follow these steps:*
+
+**Step 1:**
+![Mods Step 1](../screenshots/mods_install_step1.jpg)
+
+**Step 2:**
+![Mods Step 2](../screenshots/mods_install_step2.jpg)
+
 </details>
 
 ---
@@ -61,13 +75,27 @@ Please refer to the screenshots below for your specific launcher:
 <details>
 <summary><strong>Show Answer</strong></summary>
 <br>
-Please refer to the screenshots below for instructions:
+
+**Part 1: Locate your Game Folder**
+*Choose your launcher below to see how to open the installation directory.*
 
 **For TLauncher:**
-![RP TLauncher Instructions](URL_HERE)
+![TLauncher Open Folder](../screenshots/tlauncher_open_folder.jpg)
 
 **For Sklauncher:**
-![RP Sklauncher Instructions](URL_HERE)
+![Sklauncher Open Folder](../screenshots/sklauncher_open_folder.jpg)
+
+---
+
+**Part 2: Installation Steps (Universal)**
+*Once your folder is open, follow these steps:*
+
+**Step 1:**
+![RP Step 1](../screenshots/rp_install_step1.jpg)
+
+**Step 2:**
+![RP Step 2](../screenshots/rp_install_step2.jpg)
+
 </details>
 
 ---
