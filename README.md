@@ -1,4 +1,4 @@
-# 🌿 Actions & Fresh Parity (Fabric 1.21.11)
+# 🌿 Actions & Fresh (Fabric 1.21.11)
 
 [![OPTIMIZATION MODS](https://img.shields.io/badge/OPTIMIZATION%20MODS-purple?style=for-the-badge&logoColor=gray)](assets/docs/optimization.md)
 [![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
