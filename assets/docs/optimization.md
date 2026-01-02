@@ -1,7 +1,7 @@
 # 🌿 Actions & Fresh Parity (Fabric 1.21.11)
 
 [![MODPACK TABLE](https://img.shields.io/badge/MODPACK%20TABLE-darkblue?style=for-the-badge&logoColor=gray)](README.md)
-[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](YOUR_GDRIVE_LINK_HERE)
+[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
 [![FAQ](https://img.shields.io/badge/FAQ-red?style=for-the-badge&logoColor=gray)](assets/docs/faq.md)
 
 This repository contains a curated tracking list of Mods and Resource Packs designed to replicate the popular **"Actions & Stuff"** Bedrock aesthetic on **Minecraft Java Edition 1.21.11**.
@@ -25,4 +25,5 @@ These mods are strictly for performance (FPS boost, RAM reduction, and faster lo
 | <img src="https://cdn.modrinth.com/data/Bh37bMuy/icon.png" width="96"> | **Reese's Sodium Options** | Improves the Sodium Video Settings UI. | Utility | Messy video settings menu. | <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" width="50" title="Sodium"> | Mod | [Link](https://modrinth.com/mod/reeses-sodium-options?version=1.21.11&loader=fabric#download) |
 | <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" width="96"> | **Sodium** | Powerful rendering engine. massive FPS boost. | Optimization | General Low FPS. | <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="50" title="Fabric API"> | Mod | [Link](https://modrinth.com/mod/sodium?version=1.21.11&loader=fabric#download) |
 | <img src="https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp" width="96"> | **Sodium Extra** | Adds more video settings (animations, particles). | Utility | Missing vanilla settings. | <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" width="50" title="Sodium"> | Mod | [Link](https://modrinth.com/mod/sodium-extra?version=1.21.11&loader=fabric#download) |
+
 
