@@ -1,5 +1,10 @@
 # 🌿 Actions & Fresh Parity (Fabric 1.21.11)
 
+[![MODPACK TABLE](https://img.shields.io/badge/MODPACK%20TABLE-darkblue?style=for-the-badge&logoColor=gray)](README.md)
+[![OPTIMIZATION MODS](https://img.shields.io/badge/OPTIMIZATION%20MODS-purple?style=for-the-badge&logoColor=gray)](assets/docs/optimization.md)
+[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](YOUR_GDRIVE_LINK_HERE)
+[![FAQ](https://img.shields.io/badge/FAQ-red?style=for-the-badge&logoColor=gray)](assets/docs/faq.md)
+
 This repository contains a curated tracking list of Mods and Resource Packs designed to replicate the popular **"Actions & Stuff"** Bedrock aesthetic on **Minecraft Java Edition 1.21.11**.
 
 ---
