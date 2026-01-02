@@ -1,14 +1,8 @@
-# 🌿 Actions & Fresh Parity (Fabric 1.21.11)
+# ❓ Frequently Asked Questions
 
 [![MODPACK TABLE](https://img.shields.io/badge/MODPACK%20TABLE-darkblue?style=for-the-badge&logoColor=gray)](../../README.md)
 [![OPTIMIZATION MODS](https://img.shields.io/badge/OPTIMIZATION%20MODS-purple?style=for-the-badge&logoColor=gray)](optimization.md)
 [![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
-
-This repository contains a curated tracking list of Mods and Resource Packs designed to replicate the popular **"Actions & Stuff"** Bedrock aesthetic on **Minecraft Java Edition 1.21.11**.
-
----
-
-# ❓ Frequently Asked Questions
 
 Here you will find answers to common questions about installing and configuring this modpack.
 
@@ -181,5 +175,6 @@ The problem is fixed and your hand should look normal again.
 <img src="../screenshots/zfov_step4.png" width="400" alt="Step 4">
 
 </details>
+
 
 
