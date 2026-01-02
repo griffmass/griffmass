@@ -56,9 +56,23 @@ First, download the mods from the link below:
 [![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
 <br><br>
 
-**Step 1:** Locate the folder `mods` then open it.
+**Please refer to the instructions below to locate your game folder:**
+
+**For TLauncher:**
 <br>
-*(If you are using TLauncher or Sklauncher, use the folder button shown below)*
+Click on the **Folder icon** located at the bottom right, next to the settings gear.
+<br>
+<img src="../screenshots/tlauncher_open_folder.jpg" width="400" alt="TLauncher Instructions">
+
+**For Sklauncher:**
+<br>
+Click on the **three dots (⋮)** menu, then select **"Open installation directory"**.
+<br>
+<img src="../screenshots/sklauncher_open_folder.jpg" width="400" alt="Sklauncher Instructions">
+
+---
+
+**Step 1:** Locate the folder `mods` then open it.
 <br>
 <img src="../screenshots/mods_install_step1.jpg" width="400" alt="Locate Mods Folder">
 
@@ -80,9 +94,23 @@ First, download the resource packs from the link below:
 [![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
 <br><br>
 
-**Step 1:** Locate the folder `resourcepacks` then open it.
+**Please refer to the instructions below to locate your game folder:**
+
+**For TLauncher:**
 <br>
-*(If you are using TLauncher or Sklauncher, use the folder button shown below)*
+Click on the **Folder icon** located at the bottom right, next to the settings gear.
+<br>
+<img src="../screenshots/tlauncher_open_folder.jpg" width="400" alt="TLauncher Instructions">
+
+**For Sklauncher:**
+<br>
+Click on the **three dots (⋮)** menu, then select **"Open installation directory"**.
+<br>
+<img src="../screenshots/sklauncher_open_folder.jpg" width="400" alt="Sklauncher Instructions">
+
+---
+
+**Step 1:** Locate the folder `resourcepacks` then open it.
 <br>
 <img src="../screenshots/rp_install_step1.jpg" width="400" alt="Locate RP Folder">
 
@@ -175,6 +203,3 @@ The problem is fixed and your hand should look normal again.
 <img src="../screenshots/zfov_step4.png" width="400" alt="Step 4">
 
 </details>
-
-
-
