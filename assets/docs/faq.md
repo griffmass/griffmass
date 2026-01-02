@@ -1,3 +1,13 @@
+# 🌿 Actions & Fresh Parity (Fabric 1.21.11)
+
+[![MODPACK TABLE](https://img.shields.io/badge/MODPACK%20TABLE-darkblue?style=for-the-badge&logoColor=gray)](README.md)
+[![OPTIMIZATION MODS](https://img.shields.io/badge/OPTIMIZATION%20MODS-purple?style=for-the-badge&logoColor=gray)](assets/docs/optimization.md)
+[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](YOUR_GDRIVE_LINK_HERE)
+
+This repository contains a curated tracking list of Mods and Resource Packs designed to replicate the popular **"Actions & Stuff"** Bedrock aesthetic on **Minecraft Java Edition 1.21.11**.
+
+---
+
 # ❓ Frequently Asked Questions
 
 Here you will find answers to common questions about installing and configuring this modpack.
@@ -47,25 +57,20 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <summary><strong>Show Answer</strong></summary>
 <br>
 
-**Part 1: Locate your Game Folder**
-*Choose your launcher below to see how to open the installation directory.*
+First, download the mods from the link below:
+<br>
+[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
+<br><br>
 
-**For TLauncher:**
-![TLauncher Open Folder](../screenshots/tlauncher_open_folder.jpg)
+**Step 1:** Locate the folder `mods` then open it.
+<br>
+*(If you are using TLauncher or Sklauncher, use the folder button shown below)*
+<br>
+<img src="../screenshots/mods_install_step1.jpg" width="400" alt="Locate Mods Folder">
 
-**For Sklauncher:**
-![Sklauncher Open Folder](../screenshots/sklauncher_open_folder.jpg)
-
----
-
-**Part 2: Installation Steps (Universal)**
-*Once your folder is open, follow these steps:*
-
-**Step 1:**
-![Mods Step 1](../screenshots/mods_install_step1.jpg)
-
-**Step 2:**
-![Mods Step 2](../screenshots/mods_install_step2.jpg)
+**Step 2:** Paste here all the mods you downloaded from the Google Drive.
+<br>
+<img src="../screenshots/mods_install_step2.jpg" width="400" alt="Paste Mods">
 
 </details>
 
@@ -76,25 +81,20 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <summary><strong>Show Answer</strong></summary>
 <br>
 
-**Part 1: Locate your Game Folder**
-*Choose your launcher below to see how to open the installation directory.*
+First, download the resource packs from the link below:
+<br>
+[![Modpack GDrive](https://img.shields.io/badge/MODPACK%20GDRIVE-2EA44F?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1PkV5aD3FN5tNrUKKZlvVuKeToUrrC1sS?usp=sharing)
+<br><br>
 
-**For TLauncher:**
-![TLauncher Open Folder](../screenshots/tlauncher_open_folder.jpg)
+**Step 1:** Locate the folder `resourcepacks` then open it.
+<br>
+*(If you are using TLauncher or Sklauncher, use the folder button shown below)*
+<br>
+<img src="../screenshots/rp_install_step1.jpg" width="400" alt="Locate RP Folder">
 
-**For Sklauncher:**
-![Sklauncher Open Folder](../screenshots/sklauncher_open_folder.jpg)
-
----
-
-**Part 2: Installation Steps (Universal)**
-*Once your folder is open, follow these steps:*
-
-**Step 1:**
-![RP Step 1](../screenshots/rp_install_step1.jpg)
-
-**Step 2:**
-![RP Step 2](../screenshots/rp_install_step2.jpg)
+**Step 2:** Paste here all the resource packs you downloaded from the Google Drive.
+<br>
+<img src="../screenshots/rp_install_step2.jpg" width="400" alt="Paste Resource Packs">
 
 </details>
 
@@ -106,7 +106,7 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <br>
 <strong>Yes.</strong> The order in which you list the resource packs is very important. Please follow the exact sequence shown in this screenshot:
 <br><br>
-![Load Order Screenshot](../screenshots/rp_load_order.png)
+<img src="../screenshots/rp_load_order.png" width="400" alt="Load Order Screenshot">
 </details>
 
 ---
@@ -124,28 +124,36 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <details>
 <summary><strong>Show Answer</strong></summary>
 <br>
-This is a conflict with the animation settings. Follow these 7 steps to fix it:
 
-**Step 1:** Open the Mod Menu.
-<br>![Step 1](../screenshots/hand_fix_step1.png)
+**The Issue:**
+You might see a glitch where the items are not properly held by your hands, like this:
+<br>
+<img src="../screenshots/hand_fix_step1.png" width="400" alt="Glitch Example">
 
-**Step 2:** Search for "EMF" (or ETF).
-<br>![Step 2](../screenshots/hand_fix_step2.png)
+**Step 1:** Press any key to pause the game, then click on the **Mods** button.
+<br>
+<img src="../screenshots/hand_fix_step2.png" width="400" alt="Step 1">
 
-**Step 3:** Click the Config/Settings button.
-<br>![Step 3](../screenshots/hand_fix_step3.png)
+**Step 2:** Locate **EMF** (or ETF), hover your cursor on it, and then click the **Settings icon**.
+<br>
+<img src="../screenshots/hand_fix_step3.png" width="400" alt="Step 2">
 
-**Step 4:** Select "Models".
-<br>![Step 4](../screenshots/hand_fix_step4.png)
+**Step 3:** Click on **Models**.
+<br>
+<img src="../screenshots/hand_fix_step4.png" width="400" alt="Step 3">
 
-**Step 5:** Select "Player Settings".
-<br>![Step 5](../screenshots/hand_fix_step5.png)
+**Step 4:** Click on **Player settings**.
+<br>
+<img src="../screenshots/hand_fix_step5.png" width="400" alt="Step 4">
 
-**Step 6:** Turn ON "Prevent first-person hand animations".
-<br>![Step 6](../screenshots/hand_fix_step6.png)
+**Step 5:** Turn ON **"Prevent first person hand animations"**.
+<br>
+<img src="../screenshots/hand_fix_step6.png" width="400" alt="Step 5">
 
-**Step 7:** Click Done/Save.
-<br>![Step 7](../screenshots/hand_fix_step7.png)
+**The Result:**
+The problem is fixed and your hand should look normal again.
+<br>
+<img src="../screenshots/hand_fix_step7.png" width="400" alt="Result">
 
 </details>
 
@@ -155,18 +163,21 @@ This is a conflict with the animation settings. Follow these 7 steps to fix it:
 <details>
 <summary><strong>Show Answer</strong></summary>
 <br>
-Yes. You can adjust this directly in the resource pack settings:
 
-**Step 1:** Go to your **Resource Packs** menu.
-<br>![Step 1](../screenshots/zfov_step1.png)
+**Step 1:** Press any key to pause the game, then click on the **Options** button.
+<br>
+<img src="../screenshots/zfov_step1.png" width="400" alt="Step 1">
 
-**Step 2:** Find `pack_test` and click the **Settings** (Gear/Wrench icon).
-<br>![Step 2](../screenshots/zfov_step2.png)
+**Step 2:** Click on **Resource Packs...**
+<br>
+<img src="../screenshots/zfov_step2.png" width="400" alt="Step 2">
 
-**Step 3:** Adjust the **Z Offset** slider to your preference.
-<br>![Step 3](../screenshots/zfov_step3.png)
+**Step 3:** Find the **Example Pack!** and click the **Settings** (Gear/Wrench icon).
+<br>
+<img src="../screenshots/zfov_step3.png" width="400" alt="Step 3">
 
-**Step 4:** Click Done.
-<br>![Step 4](../screenshots/zfov_step4.png)
+**Step 4:** Adjust the **Z Offset** slider to your preference.
+<br>
+<img src="../screenshots/zfov_step4.png" width="400" alt="Step 4">
 
 </details>
