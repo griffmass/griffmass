@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Actions & Fresh Banner">
+</div>
+
 # 🌿 Actions & Fresh (Fabric 1.21.11)
 
 [![OPTIMIZATION MODS](https://img.shields.io/badge/OPTIMIZATION%20MODS-purple?style=for-the-badge&logoColor=gray)](assets/docs/optimization.md)
