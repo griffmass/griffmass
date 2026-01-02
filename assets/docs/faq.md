@@ -106,7 +106,7 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <br>
 <strong>Yes.</strong> The order in which you list the resource packs is very important. Please follow the exact sequence shown in this screenshot:
 <br><br>
-![Load Order Screenshot](URL_HERE)
+![Load Order Screenshot](../screenshots/rp_load_order.png)
 </details>
 
 ---
@@ -124,13 +124,29 @@ No. These mods are strictly designed for the <strong>Fabric</strong> loader. The
 <details>
 <summary><strong>Show Answer</strong></summary>
 <br>
-This is a conflict with the animation settings. To fix it:
-1. Open the **Mod Menu**.
-2. Search for **EMF** (or **ETF**).
-3. Go to **Models** > **Player Settings**.
-4. Turn **ON** the setting: <code>Prevent first-person hand animations</code>.
-<br><br>
-![EMF Settings Screenshot](URL_HERE)
+This is a conflict with the animation settings. Follow these 7 steps to fix it:
+
+**Step 1:** Open the Mod Menu.
+<br>![Step 1](../screenshots/hand_fix_step1.png)
+
+**Step 2:** Search for "EMF" (or ETF).
+<br>![Step 2](../screenshots/hand_fix_step2.png)
+
+**Step 3:** Click the Config/Settings button.
+<br>![Step 3](../screenshots/hand_fix_step3.png)
+
+**Step 4:** Select "Models".
+<br>![Step 4](../screenshots/hand_fix_step4.png)
+
+**Step 5:** Select "Player Settings".
+<br>![Step 5](../screenshots/hand_fix_step5.png)
+
+**Step 6:** Turn ON "Prevent first-person hand animations".
+<br>![Step 6](../screenshots/hand_fix_step6.png)
+
+**Step 7:** Click Done/Save.
+<br>![Step 7](../screenshots/hand_fix_step7.png)
+
 </details>
 
 ---
@@ -140,8 +156,17 @@ This is a conflict with the animation settings. To fix it:
 <summary><strong>Show Answer</strong></summary>
 <br>
 Yes. You can adjust this directly in the resource pack settings:
-1. Go to your **Resource Packs** menu.
-2. Find the pack named <code>pack_test</code> (provided by the mod).
-3. Click the **Settings** (Gear/Wrench icon) on the pack.
-4. Adjust the **Z Offset** slider to your preference, then click Done.
+
+**Step 1:** Go to your **Resource Packs** menu.
+<br>![Step 1](../screenshots/zfov_step1.png)
+
+**Step 2:** Find `pack_test` and click the **Settings** (Gear/Wrench icon).
+<br>![Step 2](../screenshots/zfov_step2.png)
+
+**Step 3:** Adjust the **Z Offset** slider to your preference.
+<br>![Step 3](../screenshots/zfov_step3.png)
+
+**Step 4:** Click Done.
+<br>![Step 4](../screenshots/zfov_step4.png)
+
 </details>
