@@ -128,7 +128,7 @@ Click on the **three dots (⋮)** menu, then select **"Open installation directo
 <br>
 <strong>Yes.</strong> The order in which you list the resource packs is very important. Please follow the exact sequence shown in this screenshot:
 <br><br>
-<img src="../screenshots/rp_load_order.png" width="400" alt="Load Order Screenshot">
+<img src="../screenshots/rp_load_order1.png" width="400" alt="Load Order Screenshot">
 </details>
 
 ---
